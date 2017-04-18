@@ -9,6 +9,7 @@ import {
   Image,
   Platform,
   ScrollView,
+  //
 } from 'react-native';
 
 /**

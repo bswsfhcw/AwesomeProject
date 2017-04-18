@@ -10,7 +10,7 @@ var width = Dimensions.get('window').width;
 var cols  =3; //3 列
 var  boxW = 100; //宽度=高度  方形盒子
 var vMargin = (width-cols*boxW) / (cols+1);//间距：（屏幕宽-3个盒子总宽 ）/ 间距个数 4
-var hMargin = 25; //上下间距
+var hMargin = 25; //上下间距ffff
 
 // alert("vMargin:"+vMargin);
 export default class ImageView extends Component {
